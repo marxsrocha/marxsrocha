@@ -8,7 +8,7 @@
 I'm a software engineering student at Anhanguera
 <br>
 
-####Technologies I use in my day
+#### Technologies I use in my day
 
 <div style= "display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
