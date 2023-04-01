@@ -17,6 +17,6 @@ I'm a software engineering student at Anhanguera
   </div>
   <br/>
   <div ><br/>
-  <img align="center" alt="android" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-android-2.gif" />
+  <img align="center" alt="android" src="https://tudoemtecnologia.com/wp-content/uploads/2019/04/ImpishDiscreteGonolek-small.gif" />
   </div>
   
